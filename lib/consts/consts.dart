@@ -1,0 +1,13 @@
+export 'package:flutter/material.dart';
+export 'package:get/route_manager.dart';
+export 'package:get/utils.dart';
+export 'package:provider/provider.dart';
+export 'package:user/consts/marginsAndPaddings.dart';
+export 'package:user/consts/typography.dart';
+export 'package:user/controllers/auth_controller.dart';
+export 'package:user/views/shared_widgets/customTextField.dart';
+export 'package:user/views/user_registration/user_registration.dart';
+export 'package:velocity_x/velocity_x.dart';
+export 'package:user/consts/colors.dart';
+export 'package:user/views/auth_screens/signup_screen.dart';
+export 'package:user/views/home/home.dart';

@@ -50,21 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyASUrcasjS6raxm4GDywW_zVBAj-TOFUFA',
-    appId: '1:210223083459:android:0a53cd7804a7adb4b91776',
-    messagingSenderId: '210223083459',
-    projectId: 'vehiclepollutionmonitori-8c43d',
-    databaseURL: 'https://vehiclepollutionmonitori-8c43d-default-rtdb.firebaseio.com',
-    storageBucket: 'vehiclepollutionmonitori-8c43d.appspot.com',
+    apiKey: 'AIzaSyBRf9FggnEJIGj_uRd2FtwTM2YKsyGEO_w',
+    appId: '1:113661244563:android:b6785229ccec4c82710966',
+    messagingSenderId: '113661244563',
+    projectId: 'vehicle-pollution-monito-4fc70',
+    storageBucket: 'vehicle-pollution-monito-4fc70.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB6vlo1OX5g-ug6oAzJrzJbTAvcA7w4TMk',
-    appId: '1:210223083459:ios:2819c16c14a5094bb91776',
-    messagingSenderId: '210223083459',
-    projectId: 'vehiclepollutionmonitori-8c43d',
-    databaseURL: 'https://vehiclepollutionmonitori-8c43d-default-rtdb.firebaseio.com',
-    storageBucket: 'vehiclepollutionmonitori-8c43d.appspot.com',
+    apiKey: 'AIzaSyCO_tHffNeBup3fOfEsBXwW3xmSQTS834c',
+    appId: '1:113661244563:ios:0255669c0c7e76db710966',
+    messagingSenderId: '113661244563',
+    projectId: 'vehicle-pollution-monito-4fc70',
+    storageBucket: 'vehicle-pollution-monito-4fc70.firebasestorage.app',
     iosBundleId: 'com.example.user',
   );
+
 }
